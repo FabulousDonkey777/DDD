@@ -7,7 +7,7 @@ public class Park {
 
     public Park() {
         attractions = new ArrayList<>(); // Adding some default attractions
-        attractions.add(new Attraction("Carousel", "18-19", 5));
+        attractions.add(new Attraction("Carsousel", "18-19", 5));
         attractions.add(new Attraction("Ferris Wheel", "19-20", 10));
         attractions.add(new Attraction("Horses", "19-21", 15));
         attractions.add(new Attraction("Roller Coaster", "21-24", 500));
